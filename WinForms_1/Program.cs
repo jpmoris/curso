@@ -17,6 +17,8 @@ namespace WinForms_1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            // modificacion del archivo
+            // otro comentario
         }
     }
 }
